@@ -1,8 +1,6 @@
-package controller;
-
 import java.util.Scanner;
 
-public class Bondinho {
+class Bondinho {
 
 	public static void main(String[] args) {
 		

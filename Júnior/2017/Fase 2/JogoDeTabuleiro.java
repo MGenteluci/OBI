@@ -1,8 +1,6 @@
-package controller;
-
 import java.util.Scanner;
 
-public class JogoDeTabuleiro {
+class JogoDeTabuleiro {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

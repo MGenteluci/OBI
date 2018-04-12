@@ -1,8 +1,6 @@
-package controller;
-
 import java.util.Scanner;
 
-public class Cartas {
+class Cartas {
 
 	public static void main(String[] args) {
 		
